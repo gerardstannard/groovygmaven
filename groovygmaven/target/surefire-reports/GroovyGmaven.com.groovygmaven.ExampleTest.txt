@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: GroovyGmaven.com.groovygmaven.ExampleTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.717 sec - in GroovyGmaven.com.groovygmaven.ExampleTest
